@@ -6,6 +6,7 @@ authors = ["shin5ok <shin5ok@55mp.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+diagrams = "^0.21.1"
 
 [tool.poetry.dev-dependencies]
 
